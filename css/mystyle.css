@@ -1,0 +1,119 @@
+body {
+    margin-bottom: 30px;
+}
+
+.nav {
+    background-color: white;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+    color: #90c448;
+}
+
+.btn {
+    background-color: #90c448;
+    border-color: #90c448;
+}
+
+.btn:hover {
+    background-color: #80af3e;
+    border-color: #80af3e;
+}
+
+.main {
+    margin-top: 90px;
+    height: 550px;
+    background-image: url("../assets/background.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.content {
+    color: white;
+}
+
+.hero {
+    margin-top: 40px;
+}
+
+.visi {
+    padding: 20px;
+}
+
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+    background-color: #90c448;
+    color: white;
+}
+
+.target {
+    background-color: #90c448;
+    color: white;
+}
+
+.gambar {
+    background-image: url("../assets/sajadah.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+
+.gallery1 {
+    background-image: url("../assets/background.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+}
+
+.gallery2 {
+    background-image: url("../assets/img1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+}
+
+.gallery3 {
+    background-image: url("../assets/img3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+}
+
+.gallery4 {
+    background-image: url("../assets/img4.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+}
+
+.gallery5 {
+    background-image: url("../assets/img-6.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+}
+
+.gallery6 {
+    background-image: url("../assets/img5.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+}
+
+
